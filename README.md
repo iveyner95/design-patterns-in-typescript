@@ -1,6 +1,6 @@
 # design-patterns-in-typescript
 
-# Goals
+## Goals
 - convert the 23 design patterns from the book Design Patterns into TypeScript
 - add descriptions / explanations / examples
 - make repo public (once list is exhaustive)
