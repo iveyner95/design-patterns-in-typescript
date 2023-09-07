@@ -8,6 +8,27 @@
 
 ## TODO
 
-- Add directory `/design-patterns`
-- Add subdirectories for each of the 23 subdirectories: ex `/design-patterns/abstract-factory`
-  - Subdirectoies should include a README file and a `.ts` file of the design pattern
+Add the following design patterns
+<br/>[] Abstract factory
+<br/>[] Adapter
+<br/>[] Bridge
+<br/>[] Builder
+<br/>[] Chain of Responsibility
+<br/>[] Command
+<br/>[] Composite
+<br/>[] Decorator
+<br/>[] Facade
+<br/>[] Factory Method
+<br/>[] Flyweight
+<br/>[] Interpreter
+<br/>[] Iterator
+<br/>[] Mediator
+<br/>[] Memento
+<br/>[] Observer
+<br/>[] Prototype
+<br/>[] Proxy
+<br/>[] Singleton
+<br/>[] State
+<br/>[] Strategy
+<br/>[] Template Method
+<br/>[] Visitor
