@@ -9,26 +9,27 @@
 ## TODO
 
 Add the following design patterns
-<br/>[] Abstract factory
-<br/>[] Adapter
-<br/>[] Bridge
-<br/>[] Builder
-<br/>[] Chain of Responsibility
-<br/>[] Command
-<br/>[] Composite
-<br/>[] Decorator
-<br/>[] Facade
-<br/>[] Factory Method
-<br/>[] Flyweight
-<br/>[] Interpreter
-<br/>[] Iterator
-<br/>[] Mediator
-<br/>[] Memento
-<br/>[] Observer
-<br/>[] Prototype
-<br/>[] Proxy
-<br/>[] Singleton
-<br/>[] State
-<br/>[] Strategy
-<br/>[] Template Method
-<br/>[] Visitor
+
+- [ ] Abstract factory
+- [ ] Adapter
+- [ ] Bridge
+- [ ] Builder
+- [ ] Chain of Responsibility
+- [ ] Command
+- [x] Composite
+- [ ] Decorator
+- [ ] Facade
+- [ ] Factory Method
+- [ ] Flyweight
+- [ ] Interpreter
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Memento
+- [ ] Observer
+- [ ] Prototype
+- [ ] Proxy
+- [ ] Singleton
+- [ ] State
+- [ ] Strategy
+- [ ] Template Method
+- [ ] Visitor
