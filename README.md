@@ -17,7 +17,7 @@ Add the following design patterns
 - [ ] Chain of Responsibility
 - [ ] Command
 - [x] Composite
-- [ ] Decorator
+- [x] Decorator
 - [ ] Facade
 - [ ] Factory Method
 - [ ] Flyweight
