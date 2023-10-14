@@ -10,7 +10,7 @@
 
 Add the following design patterns
 
-- [ ] Abstract factory
+- [x] Abstract factory
 - [ ] Adapter
 - [ ] Bridge
 - [ ] Builder
