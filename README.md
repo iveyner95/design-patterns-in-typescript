@@ -12,7 +12,7 @@ Add the following design patterns
 
 - [x] Abstract factory
 - [ ] Adapter
-- [ ] Bridge
+- [x] Bridge
 - [ ] Builder
 - [ ] Chain of Responsibility
 - [ ] Command
