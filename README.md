@@ -15,7 +15,7 @@ Add the following design patterns
 - [x] Bridge
 - [ ] Builder
 - [ ] Chain of Responsibility
-- [ ] Command
+- [x] Command
 - [x] Composite
 - [x] Decorator
 - [ ] Facade
