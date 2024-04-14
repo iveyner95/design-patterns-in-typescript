@@ -22,7 +22,7 @@ Add the following design patterns
 - [ ] Factory Method
 - [ ] Flyweight
 - [ ] Interpreter
-- [ ] Iterator
+- [x] Iterator
 - [ ] Mediator
 - [ ] Memento
 - [ ] Observer
