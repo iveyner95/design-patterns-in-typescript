@@ -32,4 +32,4 @@ Add the following design patterns
 - [ ] State
 - [ ] Strategy
 - [ ] Template Method
-- [ ] Visitor
+- [x] Visitor
