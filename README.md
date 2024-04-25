@@ -14,7 +14,7 @@ Add the following design patterns
 - [x] Adapter
 - [x] Bridge
 - [x] Builder
-- [ ] Chain of Responsibility
+- [x] Chain of Responsibility
 - [x] Command
 - [x] Composite
 - [x] Decorator
