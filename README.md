@@ -19,7 +19,7 @@ Add the following design patterns
 - [x] Composite
 - [x] Decorator
 - [ ] Facade
-- [ ] Factory Method
+- [x] Factory Method
 - [ ] Flyweight
 - [ ] Interpreter
 - [x] Iterator
