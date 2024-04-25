@@ -11,7 +11,7 @@
 Add the following design patterns
 
 - [x] Abstract factory
-- [ ] Adapter
+- [x] Adapter
 - [x] Bridge
 - [x] Builder
 - [ ] Chain of Responsibility
