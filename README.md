@@ -30,6 +30,6 @@ Add the following design patterns
 - [x] Proxy
 - [x] Singleton
 - [x] State
-- [ ] Strategy
+- [x] Strategy
 - [ ] Template Method
 - [x] Visitor
