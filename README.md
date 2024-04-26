@@ -29,7 +29,7 @@ Add the following design patterns
 - [x] Prototype
 - [x] Proxy
 - [x] Singleton
-- [ ] State
+- [x] State
 - [ ] Strategy
 - [ ] Template Method
 - [x] Visitor
