@@ -18,7 +18,7 @@ Add the following design patterns
 - [x] Command
 - [x] Composite
 - [x] Decorator
-- [ ] Facade
+- [x] Facade
 - [x] Factory Method
 - [ ] Flyweight
 - [ ] Interpreter
