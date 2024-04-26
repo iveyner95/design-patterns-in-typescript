@@ -27,7 +27,7 @@ Add the following design patterns
 - [x] Memento
 - [x] Observer
 - [x] Prototype
-- [ ] Proxy
+- [x] Proxy
 - [ ] Singleton
 - [ ] State
 - [ ] Strategy
