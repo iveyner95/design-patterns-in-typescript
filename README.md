@@ -23,7 +23,7 @@ Add the following design patterns
 - [x] Flyweight
 - [ ] Interpreter
 - [x] Iterator
-- [ ] Mediator
+- [x] Mediator
 - [ ] Memento
 - [ ] Observer
 - [ ] Prototype
