@@ -26,7 +26,7 @@ Add the following design patterns
 - [x] Mediator
 - [x] Memento
 - [x] Observer
-- [ ] Prototype
+- [x] Prototype
 - [ ] Proxy
 - [ ] Singleton
 - [ ] State
