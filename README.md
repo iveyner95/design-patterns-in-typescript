@@ -24,7 +24,7 @@ Add the following design patterns
 - [ ] Interpreter
 - [x] Iterator
 - [x] Mediator
-- [ ] Memento
+- [x] Memento
 - [ ] Observer
 - [ ] Prototype
 - [ ] Proxy
