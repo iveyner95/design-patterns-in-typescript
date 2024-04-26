@@ -31,5 +31,5 @@ Add the following design patterns
 - [x] Singleton
 - [x] State
 - [x] Strategy
-- [ ] Template Method
+- [x] Template Method
 - [x] Visitor
