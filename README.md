@@ -28,7 +28,7 @@ Add the following design patterns
 - [x] Observer
 - [x] Prototype
 - [x] Proxy
-- [ ] Singleton
+- [x] Singleton
 - [ ] State
 - [ ] Strategy
 - [ ] Template Method
