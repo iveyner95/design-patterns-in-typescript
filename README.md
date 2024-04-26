@@ -20,7 +20,7 @@ Add the following design patterns
 - [x] Decorator
 - [x] Facade
 - [x] Factory Method
-- [ ] Flyweight
+- [x] Flyweight
 - [ ] Interpreter
 - [x] Iterator
 - [ ] Mediator
