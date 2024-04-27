@@ -21,7 +21,7 @@ Add the following design patterns
 - [x] Facade
 - [x] Factory Method
 - [x] Flyweight
-- [ ] Interpreter
+- [x] Interpreter
 - [x] Iterator
 - [x] Mediator
 - [x] Memento
