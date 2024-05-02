@@ -1,14 +1,6 @@
 # design-patterns-in-typescript
 
-## Goals
-
-- Convert the 23 design patterns from the book Design Patterns into TypeScript
-- Add descriptions / explanations / examples
-- Make repo public (once list is exhaustive)
-
-## TODO
-
-Add the following design patterns
+Studying Design Patterns and implementing them.
 
 - [x] Abstract factory
 - [x] Adapter
